@@ -6,7 +6,7 @@ if(class %% 1 >= 0.5) {
     fixClass = as.integer(class) + 1
 }else {
     fixClass = as.integer(class)
-}s
+}
 
 #histogram
 histoSuhu <- ggplot(df, aes(x = suhuKemarau))+
@@ -43,10 +43,10 @@ boxAQI <- ggplot(df, aes(x = AQI, y = '', fill = AQI))+
 
 boxAQI
 
-grid.arrange(arrangeGrob(histoSuhu, boxAQI))
-visualisasi2 <- grid.arrange(arrangeGrob(HujanProduk, konsumAir))
+visualisasi2 <- grid.arrange(arrangeGrob(histoSuhu, boxAQI))
 ggsave(
     "Histogram Suhu & Boxplot AQI.jpeg",
     plot = visualisasi2,
-    dpi = 300
+    dpi = 300,
+    path = "output/"
 )
