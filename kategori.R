@@ -1,6 +1,4 @@
-df <- read.csv("Dataset_Kelompok_C_clean.csv")
-library(ggplot2)
-library(gridExtra)
+source("datasetLibrary.R")
 
 #barchart
 HujanProduk <- ggplot(df, aes(x = Hujan, fill = Produktivitas))+
@@ -35,5 +33,6 @@ visualisasi1 <- grid.arrange(arrangeGrob(HujanProduk, konsumAir))
 ggsave(
     "Pengaruh Hujan & Frekuensi Konsumsi Air.jpeg",
     plot = visualisasi1,
-    dpi = 300
+    dpi = 300,
+    path = "output/"
 )

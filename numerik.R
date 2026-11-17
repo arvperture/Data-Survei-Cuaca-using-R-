@@ -1,13 +1,12 @@
-df <- read.csv("Dataset_Kelompok_C_clean.csv")
-library(ggplot2)
-library(gridExtra)
+source("datasetLibrary.R")
 
+#penentuan bins
 class <- (1 + 3.3 * log10(length(df$suhuKemarau)))
 if(class %% 1 >= 0.5) {
     fixClass = as.integer(class) + 1
 }else {
     fixClass = as.integer(class)
-}
+}s
 
 #histogram
 histoSuhu <- ggplot(df, aes(x = suhuKemarau))+
