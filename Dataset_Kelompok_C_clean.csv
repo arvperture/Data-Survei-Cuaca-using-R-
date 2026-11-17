@@ -1,0 +1,34 @@
+Lokasi,Hujan,suhuKemarau,efekKulit,Produktivitas,konsumsiAIR,AQI
+Kota Kupang,Jarang (1 - 2 hari),33,3,Tidak Berpengaruh,2 Liter,48
+Kota Duri,Jarang (1 - 2 hari),33,2,Tidak Berpengaruh,"2,5 - 3 Liter",72
+Belitung ,Hampir Setiap Hari (5 - 6 hari),33,5,Berkurang 10%,"2,5 - 3 Liter",42
+Kab.Mojokerto,Hampir Setiap Hari (5 - 6 hari),32,2,Berkurang 10%,"2,5 - 3 Liter",88
+Kota Cirebon,Hampir Setiap Hari (5 - 6 hari),32,3,Bertambah > 10%,> 3 Liter,90
+Kota Solo,Sering (3 - 4 hari),33,2,Bertambah 10%,2 Liter,86
+Kulon Progo,Sering (3 - 4 hari),34,3,Tidak Berpengaruh,2 Liter,62
+Kota Pasuruan,Jarang (1 - 2 hari),28,1,Berkurang 10%,"2,5 - 3 Liter",82
+Kota Sidoarjo,Jarang (1 - 2 hari),29,3,Tidak Berpengaruh,2 Liter,96
+Nganjuk,Hampir Setiap Hari (5 - 6 hari),30,4,Tidak Berpengaruh,"2,5 - 3 Liter",68
+Madiun,Jarang (1 - 2 hari),33,3,Bertambah 10%,"2,5 - 3 Liter",72
+Kota Ngawi,Sering (3 - 4 hari),35,2,Bertambah 10%,"2,5 - 3 Liter",66
+Kab. Bojonegoro,Hampir Setiap Hari (5 - 6 hari),34,3,Berkurang < 10%,"2,5 - 3 Liter",70
+Lamongan,Sering (3 - 4 hari),36,2,Tidak Berpengaruh,"2,5 - 3 Liter",76
+Kab. Bogor,Hampir Setiap Hari (5 - 6 hari),32,3,Tidak Berpengaruh,"2,5 - 3 Liter",105
+Kota Malang,Hampir Setiap Hari (5 - 6 hari),28,1,Berkurang 10%,2 Liter,74
+Kota Surabaya,Hampir Setiap Hari (5 - 6 hari),35,5,Bertambah > 10%,> 3 Liter,100
+Kota Surabaya,Jarang (1 - 2 hari),36,2,Berkurang 10%,"2,5 - 3 Liter",100
+Kota Surabaya ,Jarang (1 - 2 hari),32,3,Tidak Berpengaruh,> 3 Liter,100
+Surabaya ,Jarang (1 - 2 hari),36,3,Tidak Berpengaruh,> 3 Liter,100
+Kota Cilegon,Jarang (1 - 2 hari),31,3,Tidak Berpengaruh,"2,5 - 3 Liter",95
+Kota Mataram ,Jarang (1 - 2 hari),31,3,Berkurang < 10%,"2,5 - 3 Liter",58
+Kota Balikpapan,Jarang (1 - 2 hari),33,3,Tidak Berpengaruh,2 Liter,46
+Blitar,Jarang (1 - 2 hari),32,3,Tidak Berpengaruh,2 Liter,64
+Kota Blitar,Sering (3 - 4 hari),30,3,Berkurang 10%,> 3 Liter,64
+KOTA MADIUN,Jarang (1 - 2 hari),32,2,Berkurang < 10%,"2,5 - 3 Liter",72
+gresik,Jarang (1 - 2 hari),30,3,Tidak Berpengaruh,2 Liter,92
+Kab. Malang,Hampir Setiap Hari (5 - 6 hari),29,2,Berkurang 10%,2 Liter,68
+Banyuwangi,Sering (3 - 4 hari),31,2,Berkurang 10%,"2,5 - 3 Liter",56
+Kota Blitar,Jarang (1 - 2 hari),28,3,Berkurang < 10%,"2,5 - 3 Liter",64
+Sidoarjo ,Jarang (1 - 2 hari),30,3,Tidak Berpengaruh,"2,5 - 3 Liter",96
+Kab. Lamandau,Jarang (1 - 2 hari),30,3,Tidak Berpengaruh,"2,5 - 3 Liter",60
+Maluku,Jarang (1 - 2 hari),32,3,Bertambah 10%,"2,5 - 3 Liter",38
