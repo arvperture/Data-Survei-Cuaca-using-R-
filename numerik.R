@@ -43,6 +43,7 @@ boxAQI <- ggplot(df, aes(x = AQI, y = '', fill = AQI))+
 
 boxAQI
 
+#output
 visualisasi2 <- grid.arrange(arrangeGrob(histoSuhu, boxAQI))
 ggsave(
     "Histogram Suhu & Boxplot AQI.jpeg",

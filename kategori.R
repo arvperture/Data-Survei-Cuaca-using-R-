@@ -29,6 +29,7 @@ konsumAir <- ggplot(df, aes(x = '', fill = konsumsiAIR))+
 
 konsumAir
 
+#output
 visualisasi1 <- grid.arrange(arrangeGrob(HujanProduk, konsumAir))
 ggsave(
     "Pengaruh Hujan & Frekuensi Konsumsi Air.jpeg",
